@@ -1,0 +1,30 @@
+#video {
+    width: 1600px;
+    height: 956.249999999px;
+}
+#activities img{
+    height: 200px;
+}
+
+#activities {
+    margin-left: 30px;
+}
+
+#achievements {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.movie_text span {
+    color: blue;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
